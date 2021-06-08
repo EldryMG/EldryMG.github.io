@@ -1,5 +1,16 @@
+.header {
+  text-align: center;
+  line-height: .60
+}
+.introduction {
+  width: 95%;
+  margin: 0 auto;
+}
+.exp-header {
+  text-align: center;
+}
 .button {
-  font: bold 11px Arial;
+  font: bold 11px Ariel;
   text-decoration: none;
   background-color: #EEEEEE;
   color: #333333;
@@ -9,24 +20,33 @@
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }
-
+h4 {
+  line-height: .05;
+}
+h3 {
+  text-align: right;
+  font-size: 13px;
+}
 section {
   padding-top: 25px;
   padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
-
 .AWC {
   background-color: grey
 }
-
 .Coborns {
   background-color: green
 }
-
 .bushbaum {
   background-color: red
 }
-
 .usmc {
   background-color: blue
 }
+.education {
+  text-align: center;
+}
+
+.education
